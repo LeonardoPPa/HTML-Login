@@ -1,0 +1,34 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    
+    background-image: cover;
+    background-repeat: no-repeat;
+    font-family: Inter;
+}
+.Logo {
+    background-color: rgba(135, 74, 255, 1);
+    position: Relative;
+    bottom: 30px;
+    text-align: center;
+    color: aliceblue;
+    width: 100%;
+    height : 60px;
+}
+.cliente {
+    position: Relative;
+    bottom: 30px;
+    text-align: center;
+    color: rgba(135, 74, 255, 1);
+    width: 100%;
+    height : 60px;
+}
+.box-user{
+    margin: 0%;
+    position: Relative;
+    color: rgba(135, 74, 255, 1);
+}
+
